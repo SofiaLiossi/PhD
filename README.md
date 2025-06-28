@@ -6,7 +6,7 @@ Created by Sofia Liossi
 This repository contains the code developed for the thesis:"MATHEMATICAL MODELING OF SARS-CoV-2 DYNAMICS WITHIN AND BETWEEN HOSTS USING COMPUTATIONAL APPROACHES, GENETIC ALGORITHMS AND EVOLUTIONARY OPTIMIZATION ALGORITHMS"  
 [School of Medicine / National and Kapodistrian University of Athens / 2025]
 
-## 📂 Repository Structure
+📂 Repository Structure
 
 - `/ga/`  
   Contains the code for genetic algorithm optimization.
@@ -18,16 +18,5 @@ This repository contains the code developed for the thesis:"MATHEMATICAL MODELIN
   Contains the scripts for numerical integration using ODE45 (MATLAB / Octave).
 
 - `/statistics/`  
-  Contains Python scripts for statistical analysis (e.g., t-test, confidence intervals).
+  Contains Python scripts for statistical analysis.
 
-## ⚙️ Requirements
-
-- Python >= 3.10  
-- MATLAB or GNU Octave  
-- Required Python packages (listed in requirements.txt)
-
-## 🏃‍♂️ How to Run
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/username/my-thesis-codes.git
